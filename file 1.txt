@@ -1,0 +1,6 @@
+khoi tao kho git
+git init
+dua vao stage
+git add .
+
+t là vuaVN
